@@ -1,6 +1,6 @@
-# 📚 HasabTech Education – Learning Pathways
+# 📚 hasabTech Education – Learning Pathways
 
-Welcome to **HasabTech Education**!  
+Welcome to **hasabTech Education**!  
 This repository is a curated collection of beginner-to-advanced **learning pathways** to help you grow as a modern developer.
 
 Whether you're starting from scratch or upskilling, these structured guides will keep you focused and consistent.
@@ -18,7 +18,7 @@ Stay connected with us:
 - 📘 Facebook: [facebook.com/hasabTech](https://www.facebook.com/hasabTech)
 - 🐙 GitHub: [github.com/hasabTech](https://github.com/hasabTech)
 - 📺 YouTube: [YouTube Channel](https://www.youtube.com/channel/UCoV4j9Teot3uWDGlIPJ0GPA)
-- 💼 LinkedIn: [HasabTech](https://www.linkedin.com/company/80248667/admin/dashboard/)
+- 💼 LinkedIn: [hasabTech](https://www.linkedin.com/company/80248667/admin/dashboard/)
 
 ---
 
@@ -60,7 +60,7 @@ Some topics are shared across multiple paths and live as independent modules:
 - Start with one pathway depending on your goal (e.g., Frontend).
 - Complete modules step by step (some pathways share content).
 - Projects and certifications are included to validate your learning.
-- Watch this space for updates or [follow HasabTech on LinkedIn](https://www.linkedin.com/company/80248667/admin/dashboard/) to stay updated!
+- Watch this space for updates or [follow hasabTech on LinkedIn](https://www.linkedin.com/company/80248667/admin/dashboard/) to stay updated!
 
 ---
 
