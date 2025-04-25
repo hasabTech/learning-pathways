@@ -26,8 +26,8 @@ Stay connected with us:
 
 ### 💻 Frontend Development
 Learn how to build beautiful and responsive web interfaces.
-- [Frontend Fundamentals](https://github.com/hasabTech/learning-pathways/blob/main/README.md?plain=1) — HTML, CSS, Git, and JavaScript (in progress)
-- Frontend Advanced (Coming Soon)
+- [Frontend Fundamentals](./frontend-fundamentals/README.md) — HTML, CSS, Git, and JavaScript (in progress)
+-  Frontend Advanced (Coming Soon)
 
 ### 🖥️ Backend Development
 Learn how to build APIs, manage databases, and scale backend systems.
