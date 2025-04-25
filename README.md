@@ -26,7 +26,7 @@ Stay connected with us:
 
 ### 💻 Frontend Development
 Learn how to build beautiful and responsive web interfaces.
-- [Frontend Fundamentals](./frontend-fundamentals/README.md) — HTML, CSS, Git, and JavaScript (in progress)
+- [Frontend Fundamentals](https://github.com/hasabTech/learning-pathways/blob/main/frontend-fundamentals/README.md) — HTML, CSS, Git, and JavaScript (in progress)
 -  Frontend Advanced (Coming Soon)
 
 ### 🖥️ Backend Development
@@ -51,7 +51,7 @@ Learn how to contribute to real-world projects and build your public profile.
 ## 📦 Modules (Reusable)
 Some topics are shared across multiple paths and live as independent modules:
 
-- [Version Control System (Git + GitHub)](./modules/version-control-system-git-github.md)
+- [Version Control System (Git + GitHub)](https://github.com/hasabTech/learning-pathways/blob/main/modules/version-control-system-git-github.md)
 
 ---
 
