@@ -60,7 +60,7 @@ Some topics are shared across multiple paths and live as independent modules:
 - Start with one pathway depending on your goal (e.g., Frontend).
 - Complete modules step by step (some pathways share content).
 - Projects and certifications are included to validate your learning.
-- Watch this space for updates or [follow hasabTech on LinkedIn](https://www.linkedin.com/company/80248667/admin/dashboard/) to stay updated!
+- Watch this space for updates or [follow hasabTech on LinkedIn](https://www.linkedin.com/company/hasabTech) to stay updated!
 
 ---
 
