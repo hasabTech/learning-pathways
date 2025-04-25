@@ -26,7 +26,7 @@ Stay connected with us:
 
 ### 💻 Frontend Development
 Learn how to build beautiful and responsive web interfaces.
-- [Frontend Fundamentals](./frontend-fundamentals/README.md) — HTML, CSS, Git, and JavaScript (in progress)
+- [Frontend Fundamentals](./frontend/frontend-fundamentals/README.md) — HTML, CSS, Git, and JavaScript (in progress)
 - Frontend Advanced (Coming Soon)
 
 ### 🖥️ Backend Development
