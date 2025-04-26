@@ -26,7 +26,7 @@ Before writing any code, install and get comfortable with:
 
 Understanding version control early will help you manage your code and collaborate better.
 
-📘 [Go to Git + GitHub Guide](../modules/version-control-system-git-github.md)
+📘 [Go to Git + GitHub Guide](https://github.com/hasabTech/learning-pathways/blob/main/modules/version-control-system-git-github.md)
 
 You’ll learn:
 - What is Git and why it's essential
