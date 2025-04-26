@@ -40,7 +40,7 @@ You’ll learn:
 
 Now that you’re set up and know how to track your work, start building the web!
 
-📘 [Go to HTML & CSS Guide](./html-css.md)
+📘 [Go to HTML & CSS Guide](https://github.com/hasabTech/learning-pathways/tree/main/frontend/frontend-fundamentals/html-css)
 
 You’ll learn:
 - Structuring web content with HTML
