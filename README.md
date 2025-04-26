@@ -7,21 +7,6 @@ Whether you're starting from scratch or upskilling, these structured guides will
 
 ---
 
-## 💬 Community & Support
-
-**We currently use WhatsApp to answer queries daily for ongoing batches.**  
-**Weekly QnA sessions are conducted to clarify doubts and track progress.**
-
-Stay connected with us:
-
-- 🌐 Website: [https://hasab.tech](https://hasab.tech)
-- 📘 Facebook: [facebook.com/hasabTech](https://www.facebook.com/hasabTech)
-- 🐙 GitHub: [github.com/hasabTech](https://github.com/hasabTech)
-- 📺 YouTube: [YouTube Channel](https://www.youtube.com/channel/UCoV4j9Teot3uWDGlIPJ0GPA)
-- 💼 LinkedIn: [hasabTech](https://www.linkedin.com/company/80248667/admin/dashboard/)
-
----
-
 ## 🚀 Available Pathways
 
 ### 💻 Frontend Development
